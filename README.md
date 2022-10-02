@@ -2,6 +2,8 @@
 
 A simple project template that is a starting point for frontend development with React.
 
+You can also use this template as a testbed to experiement with JavaScript and React code.
+
 This code was created during a [live stream](https://youtu.be/T1c6Rp9ijUA) to support the book [Rapid Fullstack Development](https://rapidfullstackdevelopment.com/).
 
 Follow on [Twitter](https://twitter.com/codecapers) for updates.
